@@ -57,5 +57,5 @@ or
 
 + sudo service tor stop
 
-![Screenshot at 2021-03-11 10-07-47](https://user-images.githubusercontent.com/69615463/110735226-934b1580-8253-11eb-96be-bf205f90c395.png
+![Screenshot at 2021-03-11 10-07-47](https://user-images.githubusercontent.com/69615463/110735226-934b1580-8253-11eb-96be-bf205f90c395.png)
 
