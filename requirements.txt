@@ -1,0 +1,3 @@
+pyfiglet
+pysocks
+requests
