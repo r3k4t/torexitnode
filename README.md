@@ -8,7 +8,7 @@
 
 <h6>Author : RKT</h6>
 
-Torexitnode is a tor network program.Its build on python program.It can help to identify exit node/bad relay  from tor network.
+Torexitnode is a tor network tool.Its build on python program.It can help to identify exit node/bad relay  from tor network.
 
 
 ### Setup[PIP MODULE] ###
